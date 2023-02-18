@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include <string.h>
 int fact(int n){
     if (n==0 || n==1)
     {
